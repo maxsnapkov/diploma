@@ -1,3 +1,6 @@
+!!!Собранные и обработанные данные (2024wallstreetbets.csv, final.2024wallstreetbets.csv, data\test.2024wallstreetbets.gexf) доступны на Google Диске:
+https://drive.google.com/drive/folders/1jTBvQco7MvCHKhA5pr2PDSuCCq02eDFP?usp=sharing
+
 Первым этапом работы программного комплекса является сбор данных с r/WallStreetBets:
 
 0_data_collection.py 
